@@ -1,5 +1,9 @@
 # Notepad App in React js with Search functionality and local storage
 
+
+# Live Demo
+https://comfy-strudel-fb950a.netlify.app/
+
 # Desktop View
 ![image](https://user-images.githubusercontent.com/74646219/190182175-d201c84e-ac35-479a-9ce3-82d612014de9.png)
 
