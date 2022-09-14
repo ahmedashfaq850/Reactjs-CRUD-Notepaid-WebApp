@@ -7,6 +7,10 @@ https://comfy-strudel-fb950a.netlify.app/
 # Desktop View
 ![image](https://user-images.githubusercontent.com/74646219/190182175-d201c84e-ac35-479a-9ce3-82d612014de9.png)
 
+# Task Add Layout
+![image](https://user-images.githubusercontent.com/74646219/190184088-feed856d-c082-4251-a620-b4c83718f087.png)
+
+
 # Tablet View
 ![image](https://user-images.githubusercontent.com/74646219/190182558-dc10f524-988f-4313-8adf-65f81539a862.png)
 
